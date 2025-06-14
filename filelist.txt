@@ -1,0 +1,4 @@
+.gitignore
+filelist.txt
+notes
+README.md
